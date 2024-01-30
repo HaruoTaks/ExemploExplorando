@@ -1,0 +1,17 @@
+D:\RepositorioGithub\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.exe
+D:\RepositorioGithub\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.deps.json
+D:\RepositorioGithub\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.runtimeconfig.json
+D:\RepositorioGithub\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.dll
+D:\RepositorioGithub\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.pdb
+D:\RepositorioGithub\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepositorioGithub\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfoInputs.cache
+D:\RepositorioGithub\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfo.cs
+D:\RepositorioGithub\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+D:\RepositorioGithub\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.dll
+D:\RepositorioGithub\ExemploExplorando\obj\Debug\net8.0\refint\ExemploExplorando.dll
+D:\RepositorioGithub\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
+D:\RepositorioGithub\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
+D:\RepositorioGithub\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
+D:\RepositorioGithub\ExemploExplorando\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\RepositorioGithub\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.AssemblyReference.cache
+D:\RepositorioGithub\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CopyComplete
